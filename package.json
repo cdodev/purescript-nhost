@@ -1,0 +1,26 @@
+{
+  "name": "purescript-nhost",
+  "version": "0.1.0",
+  "description": "Purescript bindings for nhost",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "spago test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdodev/purescript-nhost.git"
+  },
+  "keywords": [
+    "nhost",
+    "purescript"
+  ],
+  "author": "Ben Ford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdodev/purescript-nhost/issues"
+  },
+  "homepage": "https://github.com/cdodev/purescript-nhost#readme"
+}
